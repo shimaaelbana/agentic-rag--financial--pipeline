@@ -1,5 +1,7 @@
 # agentic-rag-financial-pipeline
 Agentic RAG pipeline using n8n, Pinecone, and OpenAI for automated financial report analysis and question answering.
+![n8n Workflow](workflow/workflow.png)
+
 # 🤖 RAG Chatbot for Financial Reports (n8n + Pinecone + OpenAI)
 
 An automated Retrieval-Augmented Generation (RAG) chatbot built using **n8n**, **Pinecone**, and **OpenAI**, designed to analyze and answer questions about Apple’s quarterly financial reports.
