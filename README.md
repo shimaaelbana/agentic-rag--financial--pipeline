@@ -70,11 +70,4 @@ The chatbot is specialized for:
 - Financial insights  
 - Q1 / Q2 comparisons  
 
----
 
-## 🛠️ Setup Instructions
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/rag-chatbot-n8n.git
-cd rag-chatbot-n8n
